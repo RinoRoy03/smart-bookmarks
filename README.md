@@ -3,7 +3,7 @@
 A full-stack bookmark manager web app built using Next.js and Supabase.
 
 ## 🚀 Live Demo
-https://smart-bookmarks-cd91.vercel.app
+https://smart-bookmarks1.vercel.app
 
 ## ✨ Features
 - Google Login authentication
@@ -35,7 +35,7 @@ Deployment:
 ## ⚙️ Setup Locally
 
 ```bash
-git clone https://github.com/RinoRoy03/smart-bookmarks
+git clone https://smart-bookmarks1.vercel.app
 cd smart-bookmarks
 npm install
 npm run dev
